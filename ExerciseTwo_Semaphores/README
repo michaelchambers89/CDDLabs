@@ -1,0 +1,16 @@
+Labs for Concurrent Device Development
+
+Michael Chambers (C00220585) License: https://creativecommons.org/licenses/by/4.0/legalcode
+
+This repo contains the labs for the concurrent device development module.
+
+****************************************************************************************
+
+To execute run the following:
+1. make
+2. ./signal
+
+To create documentation run the following:
+1. doxygen
+
+*****************************************************************************************
